@@ -86,6 +86,16 @@ Then run:
 python test_classifier.py  
 You'll see the predicted flower class & probabilities.
 
+---
+
+## 📊 Training Results
+
+Here is the accuracy and loss graph after training:
+
+![Training curves](training_curves.png)
+
+---
+
 🌱 Future work
 Integrate model output with a hardware device (e.g., Raspberry Pi + scent module)
 
